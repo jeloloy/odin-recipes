@@ -2,12 +2,20 @@
     background-color: pink;
     font-family: sans-serif;
     text-align: center;
+    margin: 0 auto;
+    padding: 0;
+
 }
 
 h1{
     font-weight: bold;
     font-size: 50px;
     font-style: italic;
+    border: 3px solid rgb(66, 62, 62);
+    width: 400px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .recipe p{
     color: black;
@@ -15,4 +23,6 @@ h1{
     border-radius: 7px;
     width: 220px;
     display: inline-block;
+    border: 2px solid rgb(43, 40, 40);
+    margin: 30px;
 }
